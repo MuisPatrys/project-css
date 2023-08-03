@@ -1,0 +1,224 @@
+body,html{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #96969b;
+    font-size: small;
+}
+
+
+.container{
+max-width: 30px;
+display: flex;
+flex-direction: column;
+max-width: 30px;
+}
+
+
+
+/*Contunue Button*/
+.btn-continue{
+    background-color: rgb(58, 136, 236);
+    border-radius: 20px;
+    color: aliceblue;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 10cm;
+    right: 20cm;
+}
+
+.btn-continue:hover{
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+    text-align: center;
+  }
+
+/*F-name*/
+.firstname{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.firstname:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*L-name*/
+.lastname{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.lastname:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*Email ID*/
+.email{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.email:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*User ID*/
+.userID{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.userID:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*Contry*/
+.country{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.country:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*State*/
+.state{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.state:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*City*/
+.city{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.city:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*Password*/
+.password{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: relative;
+}
+.password:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+
+/*Reference Code*/
+.ref{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: relative;
+}
+.ref:focus {
+    color: rgb(101, 160, 236);
+    cursor: pointer;
+}
+.placeholder{
+    color: #96969b;
+}
+
+/*Reset*/
+.btn-reset{
+    color: #96969b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.btn-reset:hover,
+.btn-reset:focus {
+  color: rgb(58, 136, 236);
+  cursor: pointer;
+}
+/*Bottom Line and Under Heading line*/
+.line{
+    color: #96969b;
+}
+
+body{
+    margin: 0px;
+    border-left-style:solid;
+    border-width: 110px;
+    border-color:rgb(62, 176, 247) ;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+
+h1{
+  color:  rgb(58, 136, 236);
+  font-size: 200px;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+label{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #96969b;
+    position: relative;
+    padding-left: 25%;
+    padding-bottom: 15%;
+    padding-left: 25%;
+    padding-top: 2%;
+
+}
+
+
+.container input{
+    width: 50px;
+    border: none;
+    border-bottom: 1.5px solid #96969b;
+
+}
+input:active{
+    color: rgb(58, 136, 236);
+    
+}
+
+input:focus{
+    color: rgb(58, 136, 236);
+}
+
+input{
+    width: 25px;
+    border: none;
+    border-bottom: #96969b;
+    color: black;
+    background-color: aliceblue;
+    outline: none;
+}
+
+select.container{
+    width: 25px;
+    border: none;
+    border-bottom: #96969b;
+    color: black;
+    background-color: aliceblue;
+    outline: none;
+}
+
